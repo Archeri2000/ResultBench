@@ -1,0 +1,4 @@
+.idea
+**/bin
+**/obj
+BenchmarkResultTests.sln.DotSettings.user
